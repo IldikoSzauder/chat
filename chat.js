@@ -77,7 +77,6 @@ window.onload = function () {
 		//------------------------------------------------------------------------------
 		
 		clearInput() {
-			document.getElementById('txt-user').value = '';
 			document.getElementById('txt-message').value = '';
 		}
 		
